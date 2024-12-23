@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61eb24bf3145a884db4e5bbaddc4b8e6, type: 3}
+  m_Name: LettersData
+  m_EditorClassIdentifier: 
+  _answers:
+  - <Value>k__BackingField: a
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 4963718625464178563, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: b
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 7783457984840754399, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: c
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 3234300448368640894, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: d
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 7911670913450602933, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: e
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 4652326554734856401, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: f
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -6426668015567183463, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: g
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 216406037199867053, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: h
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -8235857483100294123, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: i
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -3541686595128163680, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: j
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -2756605603065543306, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: k
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -1127063002332224934, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: l
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -5901097786099144959, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: m
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 3295844289267200183, guid: e73120af897eb9e48864fc11177e0988, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: n
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 7112752472869403061, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: o
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 5433449995169814141, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: p
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -4252152113809563852, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: q
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -4447791616812998045, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: r
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -6342808464625005154, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: s
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 8083504644574312765, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: t
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -4461999128152558772, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: u
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 3270655726746431581, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: v
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -2983290644488427326, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: w
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -9165466868132007793, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: x
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 4461586319009975920, guid: b2e2d915f595a9c4f92351f4f3bb5683, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: y
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: -5001085640463096552, guid: dbe4a1b1c99c3e046bfe56c1388cc178, type: 3}
+      <RotationAngle>k__BackingField: 0
+  - <Value>k__BackingField: z
+    <SpriteWithRot>k__BackingField:
+      <Sprite>k__BackingField: {fileID: 3539555106843919260, guid: dbe4a1b1c99c3e046bfe56c1388cc178, type: 3}
+      <RotationAngle>k__BackingField: 0
